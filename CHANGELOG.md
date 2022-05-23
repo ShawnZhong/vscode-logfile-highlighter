@@ -1,5 +1,9 @@
 # Change Log
 
+### Next
+
+* Updated dependencies
+
 ### 2.15.0 - 12 Feb 2022
 
 * Added new text decoration options for custom patterns:
